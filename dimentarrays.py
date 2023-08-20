@@ -44,4 +44,4 @@ onesarray1 = np.ones((2,2))
 onesarray1[1,1] = 5
 onesarray1[0,1] = 3
 newarray1 = 5 * onesarray1 - 3
-print("The operations on onesarray1 is  :\n",newarray1)
+print("The operations on onesarray1 is :\n",newarray1)
